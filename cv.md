@@ -14,3 +14,11 @@ Develop and improve my programming knowledge. Get enough skills to become a web 
 1.  HTML/CSS on htmlacademy.ru
 2.  JavaScript on learn.javascript.ru
 3.  Frontend video tutorials/workshops
+
+## Code examples
+
+Github profile: <**_https://github.com/EugeneNovos_**>
+
+## English
+
+Pre-Intermediate
